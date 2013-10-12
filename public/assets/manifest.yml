@@ -5,7 +5,26 @@ glyphicons-halflings-regular.ttf: glyphicons-halflings-regular-552030dcfecec5e0e
 glyphicons-halflings-regular.woff: glyphicons-halflings-regular-4f45817077fe28b7902560b3d1828c3b.woff
 background-dark.jpg: background-dark-8ebd94e7f8ec8bde7c9206f4bb9e37aa.jpg
 background.jpg: background-aae119f340868ca092a798aeac449c48.jpg
+icons/lifevest.png: icons/lifevest-a59030d607e80460c5a811871207ddbe.png
+icons/map.png: icons/map-90bbefce3536942d82fda9804f1727e9.png
+icons/map.svg: icons/map-afad7493a34f1a16fba6b135c354cb63.svg
+icons/money.png: icons/money-0a19904c64225056d0062c38afa8d4d8.png
+icons/noun_project_1023 2.svg: icons/noun_project_1023 2-92a12e33d326d911ce1f116294ac4555.svg
+icons/noun_project_11022 2.svg: icons/noun_project_11022 2-51eee05d343aa98944fd5d555503e1cb.svg
+icons/noun_project_13135 2.svg: icons/noun_project_13135 2-52fb397221e78120a206f6a761ecf822.svg
+icons/noun_project_16939 2.svg: icons/noun_project_16939 2-4211592684c1ee7666c093315e7556d9.svg
+icons/noun_project_189.svg: icons/noun_project_189-937de3785c17e310bb5e8ea12b910523.svg
+icons/noun_project_558 2.svg: icons/noun_project_558 2-e1e88815ccf0118fa1891ae02fcaf6ca.svg
+icons/noun_project_931 2.svg: icons/noun_project_931 2-8fad8b6f97a4b0a0f805c0399da1192b.svg
+icons/smartphone.png: icons/smartphone-1e7ca0d291f920ca694e6466b674b1ee.png
+icons/svg_11759-01 2.svg: icons/svg_11759-01 2-914836dd2c5db47b562c2ca90e21e242.svg
+icons/towtruck.png: icons/towtruck-18b455828989d7887afa6fe0cc57d5b8.png
+lifevest.png: lifevest-a59030d607e80460c5a811871207ddbe.png
+map.png: map-90bbefce3536942d82fda9804f1727e9.png
+money.png: money-0a19904c64225056d0062c38afa8d4d8.png
 roadside.jpg: roadside-e8fd9ec6c874a0cee3f57e9aafed63a3.jpg
+smartphone.png: smartphone-1e7ca0d291f920ca694e6466b674b1ee.png
+towtruck.png: towtruck-18b455828989d7887afa6fe0cc57d5b8.png
 application.js: application-cea2d99af8354e6417f15d753ce79a0b.js
 application.css: application-2365d23dbd5b6028202c4cfd09b0c640.css
 jquery.min.map: jquery.min-70bec01470bf6bcfed5892ae554b38c8.map

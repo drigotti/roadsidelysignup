@@ -20041,3 +20041,182 @@ Served asset /money.png - 304 Not Modified (0ms)
 
 Started GET "/assets/towtruck.png" for 127.0.0.1 at 2013-10-11 17:11:27 -0700
 Served asset /towtruck.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-10-11 17:47:39 -0700
+Connecting to database specified by database.yml
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (4.0ms)
+  Rendered users/new.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 98ms (Views: 72.6ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap.css - 304 Not Modified (9ms)
+
+
+Started GET "/assets/bootstrap-theme.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap-theme.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap.min.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap-theme.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /users.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /jquery.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /bootstrap.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /map.png - 304 Not Modified (6ms)
+
+
+Started GET "/assets/money.png" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /money.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/towtruck.png" for 127.0.0.1 at 2013-10-11 17:47:40 -0700
+Served asset /towtruck.png - 304 Not Modified (2ms)
+
+
+Started GET "/lock/login" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Processing by LockController#login as HTML
+  Rendered lock/login.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap-theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-theme.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap-theme.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /bootstrap.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /map.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/towtruck.png" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /towtruck.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/money.png" for 127.0.0.1 at 2013-10-11 17:47:43 -0700
+Served asset /money.png - 304 Not Modified (0ms)
+
+
+Started POST "/lock/unlock" for 127.0.0.1 at 2013-10-11 17:47:46 -0700
+Processing by LockController#unlock as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KmnruJbUIAWs5spKPu6RLKHjtV84mH84k8iE1y69dDY=", "password"=>"[FILTERED]", "commit"=>"Unlock"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" 
+  Rendered lock/unlock.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 128ms (Views: 16.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-theme.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap-theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-theme.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap-theme.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /bootstrap.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/money.png" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /money.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/towtruck.png" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /towtruck.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2013-10-11 17:47:47 -0700
+Served asset /map.png - 304 Not Modified (0ms)

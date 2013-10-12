@@ -8,16 +8,10 @@
         You haven't referred anyone yet.<br />
       <% end %>
       Link: <a href="#"><%= "#{root_url}?code=#{@user.code}" %></a><br />
-      <a href="https://twitter.com/intent/tweet?counturl=http://wwww.roadsidely.com/&related=roadsidely&url=<%=u "#{root_url}?code=#{@user.code}"%>&text=Get+on+demand+roadside+assitance+from+your+smartphone+with+@Roadsidely.+Uber+meets+AAA.+Sign+up+at&" class="btn share twitter" target="_blank">Twitter</a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=<%=u "#{root_url}?code=#{@user.code}"%>" class="btn share facebook" target="_blank">Facebook</a>
+      <a href="https://twitter.com/intent/tweet?counturl=http://wwww.roadsidely.com/&related=roadsidely&url=<%=u "#{root_url}?code=#{@user.code}"%>&text=Get+on+demand+roadside+assitance+from+your+smartphone+with+@Roadsidely.+Uber+meets+AAA.+Sign+up+at&" class="btn share twitter" target="_blank">Tweet</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=<%=u "#{root_url}?code=#{@user.code}"%>" class="btn share facebook" target="_blank">Post</a>
       <a href="https://plus.google.com/share?url=<%= "#{root_url}?code=#{@user.code}" %>" onclick="javascript:window.open(this.href,
-        '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" class="btn share googleplus">Google+</a>
-      <a href="http://www.linkedin.com/shareArticle?mini=true&url=<%= "#{root_url}?code=#{@user.code}" %>&title=Modern%20Roadside%20Service&summary=Get%20on%20demand%20roadside%20assitance%20from%20your%20smartphone%20with%20Roadsidely.%20Uber%20meets%20AAA.%20Signup%20today!" class="btn share linkedin" target="blank">LinkedIn</a>
+        '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" class="btn share googleplus">Share</a>
       </p>
   </div>
 </div>
-
-
-
-
-

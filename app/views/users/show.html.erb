@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-lg-6 col-lg-offset-3">
-    <p class="text"><i>We got you! To say thanks, we have a special offer for you. <b>Refer someone to sign up and we'll give you a free month of Roadsidely when it launches in your city!</i></b></p>
+    <p class="text"><i>We got you! To say thanks, we have a special offer for you. <br><b>Refer someone to sign up and we'll give you a free month of Roadsidely when it launches in your city!</i></b></p>
     <p class="text">
       <% if @user.count %>
         Your referrals: <%= @user.count %><br />
@@ -8,7 +8,7 @@
         You haven't referred anyone yet.<br />
       <% end %>
       Link: <a href="#"><%= "#{root_url}?code=#{@user.code}" %></a><br />
-      <a href="https://twitter.com/intent/tweet?counturl=http://wwww.roadsidely.com/&related=roadsidely&url=<%=u "#{root_url}?code=#{@user.code}"%>&text=Get+on+demand+roadside+assitance+from+your+smartphone+with+@Roadsidely.+Uber+meets+AAA.+Sign+up+at&" class="btn share twitter" target="_blank">Tweet</a>
+      <a href="https://twitter.com/intent/tweet?counturl=http://wwww.roadsidely.com/&related=roadsidely&url=<%=u "#{root_url}?code=#{@user.code}"%>&text=Get+on+demand+roadside+assistance+from+your+phone+with+@Roadsidely.+Uber+meets+AAA.+Sign+up+at&" class="btn share twitter" target="_blank">Tweet</a>
       <a href="https://www.facebook.com/sharer/sharer.php?u=<%=u "#{root_url}?code=#{@user.code}"%>" class="btn share facebook" target="_blank">Post</a>
       <a href="https://plus.google.com/share?url=<%= "#{root_url}?code=#{@user.code}" %>" onclick="javascript:window.open(this.href,
         '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" class="btn share googleplus">Share</a>
